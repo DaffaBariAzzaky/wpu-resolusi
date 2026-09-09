@@ -4,3 +4,5 @@ WPU RESOLUSI
 - Saya pengen bisa lancar mengetik di komputer
 - Saya pengen rajin dalam belajar hal baru
 - Pengen Jadi Developer game
+
+commit 1 abc person 1
