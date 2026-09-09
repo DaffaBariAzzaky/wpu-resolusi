@@ -6,3 +6,4 @@ WPU RESOLUSI
 - Saya pengen rajin dalam belajar hal baru
 - Pengen Jadi Developer game
  ^genre horror^
+ ^game story^
