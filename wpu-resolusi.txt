@@ -6,3 +6,4 @@ WPU RESOLUSI
 - Pengen Jadi Developer game
 
 commit 1 abc person 1
+commit 2 abc person 2
